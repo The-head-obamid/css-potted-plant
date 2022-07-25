@@ -30,11 +30,11 @@ dependencies {
     modCompile "de.javagl:obj:0.3.0"
     include "de.javagl:obj:0.3.0"
 
-    modCompileOnly("io.github.prospector:modmenu:${project.modmenu_version}") {
+    modCompileOnly("com.terraformersmc:modmenu:${project.modmenu_version}") {
         transitive(false)
     }
 
-    modRuntime("io.github.prospector:modmenu:${project.modmenu_version}") {
+    modRuntime("com.terraformersmc:modmenu:${project.modmenu_version}") {
         transitive(false)
     }
 
