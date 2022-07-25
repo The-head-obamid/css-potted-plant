@@ -22,6 +22,8 @@
 ##
 ##############################################################################
 
+# Random comment to get the files changed so i can push a commit to get a workflow to run to see if the actions work now
+
 # Attempt to set APP_HOME
 # Resolve links: $0 may be a link
 PRG="$0"
